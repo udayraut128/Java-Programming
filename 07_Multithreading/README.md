@@ -1,4 +1,4 @@
-# 🧵 6. Multithreading in Java
+# 🧵 07. Multithreading in Java
 
 Java supports **multithreading**, allowing multiple threads to execute concurrently for better CPU utilization.
 

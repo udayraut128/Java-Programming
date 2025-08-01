@@ -1,4 +1,4 @@
-# ✅ 7. Java Packages
+# ✅ 08. Java Packages
 
 A **package** in Java is a namespace that organizes a set of related classes and interfaces. Think of it like a folder on your computer.
 

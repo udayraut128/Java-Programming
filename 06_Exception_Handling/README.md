@@ -1,4 +1,4 @@
-# 💥 5. **Exception Handling in Java**
+# 💥 06. **Exception Handling in Java**
 
 Exception handling allows a program to deal with **runtime errors** gracefully **without crashing**.
 
